@@ -27,7 +27,7 @@ export default function RootLayout({
         appearance={{
           layout: {
             socialButtonsVariant: "iconButton",
-            logoImageUrl: "/icons/vmeet-logo.png",
+            // logoImageUrl: "/icons/vmeet-logo.png",
           },
           variables: {
             colorText: "#fff",
